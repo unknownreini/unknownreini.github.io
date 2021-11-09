@@ -1,0 +1,12 @@
+Origin: Reini's Grocery Store
+Label: Reini's Grocery Store
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A place for take down and my package
+
+SHA256:
+ 1f71d6e7ae0228997e40d8f1b222d4b6ff9db306ebf8ad079f2be5aa0664ed28 597 Packages.bz2
+ 6dc8fb6aeda61c51d667802c625b1d8f7e4e534b1118fd28f47200f4aef55ded 584 Packages.xz

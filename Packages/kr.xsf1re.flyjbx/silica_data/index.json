@@ -1,0 +1,32 @@
+{
+    "bundle_id": "kr.xsf1re.flyjbx",
+    "name": "FlyJB X",
+    "version": "1.2.5",
+    "tagline": "You can HIDE Doing jailbreak your iDevice",
+    "homepage": "https:/alexchiu100014.github.io",
+    "developer": {
+        "name": "Xsf1re",
+        "email": "unknown"
+    },
+    "maintainer": {
+        "name": "Reini",
+        "email": "mynameisreini@gmail.com"
+    },
+    
+
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "conflicts": "kr.xsf1re.flyjb (<<1.2.5)",
+
+
+    "tint": "#47c8c0",
+    "works_min": "10.0",
+    "works_max": "14.0",
+    "featured": "true",
+    "changelog": [
+        {
+            "version": "1.2.5",
+            "changes": "Well,Xsf1re disappeared..."
+        }
+    ]
+}
